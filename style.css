@@ -432,7 +432,7 @@ body {
         /* z-index: 1; Ensure the hero section is behind the menu */
     }
 .hero-content{
-  margin-top: 20dvh;
+  margin-top: 30dvh;
   margin-left: 20px;
   margin-right: 20px;
 }
